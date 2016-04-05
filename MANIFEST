@@ -1,0 +1,12 @@
+INSTALL
+LICENSE
+MANIFEST
+Makefile.PL
+README.pod
+TODO
+foo
+lib/RSBX/Util.pm
+lib/RSBX/Util/Math/isCoprime.pm
+lib/RSBX/Util/Math/isInteger.pm
+lib/RSBX/Util/PseudoRandomSequenceGenerator.pm
+t/RSBX-Util.t
